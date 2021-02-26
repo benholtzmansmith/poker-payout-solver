@@ -75,5 +75,4 @@ def test_two_winners_three_losers():
     ]
 
     results = solve(player_data=player_results)
-    print(results)
     assert results == {'Taiyo': ['Sen pays 10'], 'Ben': ['Sen pays 1', 'Justin pays 3', 'Ted pays 2']}
