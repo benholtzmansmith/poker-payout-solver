@@ -2,7 +2,7 @@
 
 ### Command
 
-`python solve_payouts/solve_payouts.py ./input.json`
+`python poker_payouts/solve.py ./input.json`
 
 
 #### Example Input
